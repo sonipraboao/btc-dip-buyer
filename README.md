@@ -1,3 +1,7 @@
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/sonipraboao/btc-dip-buyer/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/sonipraboao/btc-dip-buyer/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+
 # BTC Dip Buyer — a cbBTC trading bot for make.fun's 24-hour BTC race
 
 A Python 3.13 bot for the `agent-fun/bars-replay/v1` protocol. It trades
